@@ -8,15 +8,15 @@
 
 ## 🌱 A Little About Me:
 
-- 💻 Currently focused on **Machine Learning** and **Deep Learning** projects  
 - 🎨 **UI/UX enthusiast** with plans to explore it more in the future  
-- 📊 Interested in **Data Science**, **AI Research**, and **creative solutions**  
+- 📊 Interested in **Web development with Designing UI/UX**, **AI Research**, and **creative solutions**  
 
 ---
 
 ## 💡 What I’m Working On:
 
-- 🤖 Building exciting projects using **Python**, **TensorFlow**, and **Figma**  
+- 🤖 Building exciting projects using **Python**, **TensorFlow**, **HTML, CSS & JS**, and **Figma**
+- 🔮 Learning about fullstack with **MERN** and learning about **WebFlow** also. 
 - ✨ Designing and prototyping engaging **user interfaces**  
 - 🚀 Learning and experimenting with new **AI techniques**  
 
