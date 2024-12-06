@@ -24,6 +24,7 @@
 
 ## 💬 Let's Connect:
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/om-prasad-behera-0aa06a252/))  
+- 💼 [LinkedIn]((https://www.linkedin.com/in/om-prasad-behera-0aa06a252/))
+- 👨‍💻 [LeetCode](https://leetcode.com/u/Omprasadbehera/)
 
 ---
